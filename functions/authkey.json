@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "plan-turista",
+  "private_key_id": "a4ffc634321da3f9c3b45eadbec57172ba3b3e18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmIa509FqaJu60\nSDrxglnkyn07UXkCZVvorzc9u/ny41AVToX/sYZuwJSx3X+6HVUfnlQcoFzEFPgp\nAhaVsP4ZvaGdg+QhSdeplwww6YzOWyJjhBzBqPx6LkglbuZtX/VVcsPiOlpV57tp\ne0P2T7qUg1oNwP6pCgnLuq0kUxWdKT9UfJfjyCOdIGR8nwXc0xah4xYU21p3z0vO\n/Wxub6CX5mYJHt/mWfzEljxdJ+xAa7Uem+QjPP9rtcsviQwCeXfWiNeuQbQwjqKE\n6Jro6iqj29b4MsSYMfhcD0HrphQIKMp+E4UBBtw3DgJbp8EWIRFJQ1UOrTEVPhTJ\nTBzYUgehAgMBAAECggEABCTNl9fgdVKInFvmMc/xM2ZkPpkxo4BTt+IRnACW+MVN\nYhAArPgIml/uADcTey5Fc/HHDKUTVfC6n+CQH6ZihXyCuM2+taCEjekD7NRmfAnZ\n5GbkhhATpsMwxCjtUR0WSXirWiE1JPS6v/l1yyxXQw0OWfl5C05XdYrFIXrRDIfI\nj71GfDJt6+OxVqHs8ih5SUsZWCKDt3OSFX37rwKx+Nxs1JhnVwEM+4mo+8J37rfq\nXiT4J/ZKIcYPav5v3c0TxyI/V36ooFHzYDHniNdUyy7V7ocpQ9/PgPuj9DL9O885\nl+z4lxA8di3OEk7kMo/Bo6ekDK8+vaUqqhYepsQM4QKBgQDSTm/OfPX5e4UEflkP\nGyoj9IdOxIt+5yBgZaZuH1wqJp1aDlQrHIbzlS9iIq/f5+i31bqs3M3TNXqdQBn1\nUg1/GEPBThwzZGUMEimXad/+buDIr9ts43tH8m3M4umKiIAwxdKSNC0NLmCiNIqx\nVKoGIhyAExNf41hfCkDkRCdDjwKBgQDKOixi2saOn3mQfY2mxPzEdmGhOL0Wjx/a\nilI3KH3NKvV3kLt5KWXUrpH+jDL7CZsKiOEQf+QyDHByrV5ag8wxtw/e+iSmIB4m\nm65Z7k3HlbelCbxwSaKIMm4m9vHEkiu4waqGbEBojEom696nH6Uor+4VCUiuLzKA\n02JjPvepzwKBgHjFCFnY0txQ/YMmF3igTePV8bnfDohyq9oPpbKJmcCu6h+kKNuV\nBz5sRoihiMQZBkBDoW7RYfVPObmB7SY+13dL9OTWOUWd+pUi/PVxnGsdO0KkEmsG\ne25Gnp1RFXIzjwHzKEhDZDe0kVO0voy1JOpevmUiDzc6dC4n0joDlVSrAoGAWTXm\nhMl8VEiXyR0KEyrNUyHiGcw85inHZJImiLytGog79z365g1UJcnJD+DrUIFBSxlt\nJ+kzUrzYEk7W09lWiAv4zWXOKxb6FhARjwyodUZf2Ed+QI7LS4frvfasWwocjYmp\n31j75OMWhysAcvtr0ZIi1lbdIDIj9l7KBXwup1MCgYEA0SlXmkwUX1+YjHcQkvzA\nBIwhGSx3djIYk4Hvn7HUYcIk8CWPMh+Txvp4toGPAb5X+Cb3PzsQ6ZxRgQs+BHTQ\n8wyi6TxcueiF+8uC7PD2z6QVBak3hS0I9Jq8rgsbHoH1sQR02ONa83cHFtzZ/RmK\nn+yeTTpZ6yqRSAvto+RIz6s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-e9nvh@plan-turista.iam.gserviceaccount.com",
+  "client_id": "107839611990812384001",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-e9nvh%40plan-turista.iam.gserviceaccount.com"
+}
